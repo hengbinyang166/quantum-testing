@@ -1,3 +1,3 @@
-chip_topology.edgelist保存的为芯片的结构
-如果需要测试方法一，首先运行generate_circuits.py生成测试集
-然后运行test_compare_sabre_isomorphism.py
+chip_topology.edgelist保存的为芯片的结构。
+如果需要测试方法一，以测试sabre方法为例，首先运行generate_circuits.py生成测试集。
+然后运行test_compare_sabre_isomorphism.py。
