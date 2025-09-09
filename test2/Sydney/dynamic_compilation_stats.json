@@ -1,0 +1,6499 @@
+[
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 8,
+        "instance": 1,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s9.qasm",
+        "q_large": 8,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                16,
+                19
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                19,
+                20
+            ],
+            [
+                14,
+                16
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 8,
+        "instance": 3,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 8,
+        "instance": 4,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                15
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                10,
+                12
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 8,
+        "instance": 5,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s3.qasm",
+        "q_large": 8,
+        "instance": 6,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                8,
+                9
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 8,
+        "instance": 7,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                18,
+                21
+            ],
+            [
+                21,
+                23
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 8,
+        "instance": 8,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                15,
+                18
+            ],
+            [
+                18,
+                21
+            ],
+            [
+                12,
+                15
+            ],
+            [
+                17,
+                18
+            ],
+            [
+                18,
+                21
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 8,
+        "instance": 9,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                11,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s4.qasm",
+        "q_large": 8,
+        "instance": 10,
+        "swap_count": 8,
+        "compiler_swaps": [
+            [
+                13,
+                14
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                14,
+                16
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                11,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s1.qasm",
+        "q_large": 9,
+        "instance": 1,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 9,
+        "instance": 2,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 9,
+        "instance": 3,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                11,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 9,
+        "instance": 4,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 9,
+        "instance": 5,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                16,
+                19
+            ],
+            [
+                19,
+                22
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s10.qasm",
+        "q_large": 9,
+        "instance": 6,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s4.qasm",
+        "q_large": 9,
+        "instance": 7,
+        "swap_count": 8,
+        "compiler_swaps": [
+            [
+                17,
+                18
+            ],
+            [
+                15,
+                18
+            ],
+            [
+                18,
+                21
+            ],
+            [
+                15,
+                18
+            ],
+            [
+                15,
+                18
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s1.qasm",
+        "q_large": 9,
+        "instance": 8,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                16,
+                19
+            ],
+            [
+                19,
+                20
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 9,
+        "instance": 9,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                15,
+                18
+            ],
+            [
+                18,
+                21
+            ],
+            [
+                17,
+                18
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 9,
+        "instance": 10,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 10,
+        "instance": 1,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 10,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 10,
+        "instance": 3,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 10,
+        "instance": 4,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 10,
+        "instance": 5,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s4.qasm",
+        "q_large": 10,
+        "instance": 6,
+        "swap_count": 8,
+        "compiler_swaps": [
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                15
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                15
+            ],
+            [
+                12,
+                15
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 10,
+        "instance": 7,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                16,
+                19
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 10,
+        "instance": 8,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 10,
+        "instance": 9,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s9.qasm",
+        "q_large": 10,
+        "instance": 10,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s4.qasm",
+        "q_large": 11,
+        "instance": 1,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                19,
+                20
+            ],
+            [
+                16,
+                19
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 11,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s9.qasm",
+        "q_large": 11,
+        "instance": 3,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 11,
+        "instance": 4,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 11,
+        "instance": 5,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ],
+            [
+                12,
+                13
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 11,
+        "instance": 6,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 11,
+        "instance": 7,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                14,
+                16
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                14,
+                16
+            ],
+            [
+                14,
+                16
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 11,
+        "instance": 8,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 11,
+        "instance": 9,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s3.qasm",
+        "q_large": 11,
+        "instance": 10,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s4.qasm",
+        "q_large": 12,
+        "instance": 1,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 12,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 12,
+        "instance": 3,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                18,
+                21
+            ],
+            [
+                21,
+                23
+            ],
+            [
+                15,
+                18
+            ],
+            [
+                17,
+                18
+            ],
+            [
+                17,
+                18
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 12,
+        "instance": 4,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                14,
+                16
+            ],
+            [
+                11,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 12,
+        "instance": 5,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                14,
+                16
+            ],
+            [
+                16,
+                19
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s7.qasm",
+        "q_large": 12,
+        "instance": 6,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s10.qasm",
+        "q_large": 12,
+        "instance": 7,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                13,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 12,
+        "instance": 8,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                13,
+                14
+            ],
+            [
+                14,
+                16
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                13,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s6.qasm",
+        "q_large": 12,
+        "instance": 9,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                19,
+                22
+            ],
+            [
+                19,
+                20
+            ],
+            [
+                19,
+                20
+            ],
+            [
+                19,
+                20
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 12,
+        "instance": 10,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                15,
+                18
+            ],
+            [
+                18,
+                21
+            ],
+            [
+                12,
+                15
+            ],
+            [
+                17,
+                18
+            ],
+            [
+                18,
+                21
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 13,
+        "instance": 1,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                14,
+                16
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                14,
+                16
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 13,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s3.qasm",
+        "q_large": 13,
+        "instance": 3,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                8,
+                9
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 13,
+        "instance": 4,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                14,
+                16
+            ],
+            [
+                16,
+                19
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                13,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s2.qasm",
+        "q_large": 13,
+        "instance": 5,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s8.qasm",
+        "q_large": 13,
+        "instance": 6,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                12,
+                15
+            ],
+            [
+                15,
+                18
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 13,
+        "instance": 7,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 13,
+        "instance": 8,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 13,
+        "instance": 9,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ],
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s4.qasm",
+        "q_large": 13,
+        "instance": 10,
+        "swap_count": 8,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ],
+            [
+                12,
+                15
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                12,
+                13
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 14,
+        "instance": 1,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                14,
+                16
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                14,
+                16
+            ],
+            [
+                14,
+                16
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                14,
+                16
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 14,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s7.qasm",
+        "q_large": 14,
+        "instance": 3,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 14,
+        "instance": 4,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 14,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                10,
+                12
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                10,
+                12
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 14,
+        "instance": 6,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 14,
+        "instance": 7,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s2.qasm",
+        "q_large": 14,
+        "instance": 8,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s7.qasm",
+        "q_large": 14,
+        "instance": 9,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 14,
+        "instance": 10,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                10,
+                12
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s1.qasm",
+        "q_large": 15,
+        "instance": 1,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 15,
+        "instance": 2,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s7.qasm",
+        "q_large": 15,
+        "instance": 3,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 15,
+        "instance": 4,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s7.qasm",
+        "q_large": 15,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                8,
+                11
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                8,
+                11
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 15,
+        "instance": 6,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s4.qasm",
+        "q_large": 15,
+        "instance": 7,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s4.qasm",
+        "q_large": 15,
+        "instance": 8,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                10,
+                12
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s10.qasm",
+        "q_large": 15,
+        "instance": 9,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                8,
+                9
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 15,
+        "instance": 10,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s10.qasm",
+        "q_large": 16,
+        "instance": 1,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ],
+            [
+                12,
+                15
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                12,
+                13
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s9.qasm",
+        "q_large": 16,
+        "instance": 2,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                8,
+                11
+            ],
+            [
+                8,
+                11
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 16,
+        "instance": 3,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                8,
+                11
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                8,
+                9
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s8.qasm",
+        "q_large": 16,
+        "instance": 4,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 16,
+        "instance": 5,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                4,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s1.qasm",
+        "q_large": 16,
+        "instance": 6,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s9.qasm",
+        "q_large": 16,
+        "instance": 7,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                7,
+                10
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 16,
+        "instance": 8,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                7,
+                10
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                6,
+                7
+            ],
+            [
+                6,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s7.qasm",
+        "q_large": 16,
+        "instance": 9,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                12,
+                13
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 16,
+        "instance": 10,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                8,
+                11
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                11
+            ],
+            [
+                8,
+                11
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 17,
+        "instance": 1,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                14,
+                16
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                11,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 17,
+        "instance": 2,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                7,
+                10
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s8.qasm",
+        "q_large": 17,
+        "instance": 3,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 17,
+        "instance": 4,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 17,
+        "instance": 5,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                11
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 17,
+        "instance": 6,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s3.qasm",
+        "q_large": 17,
+        "instance": 7,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                8,
+                9
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 17,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 17,
+        "instance": 9,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                8,
+                11
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                13,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 17,
+        "instance": 10,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s10.qasm",
+        "q_large": 18,
+        "instance": 1,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                6,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 18,
+        "instance": 2,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s10.qasm",
+        "q_large": 18,
+        "instance": 3,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                8,
+                9
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 18,
+        "instance": 4,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                13
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 18,
+        "instance": 5,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s10.qasm",
+        "q_large": 18,
+        "instance": 6,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s6.qasm",
+        "q_large": 18,
+        "instance": 7,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 18,
+        "instance": 8,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 18,
+        "instance": 9,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 18,
+        "instance": 10,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                8,
+                11
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                13,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s2.qasm",
+        "q_large": 19,
+        "instance": 1,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 19,
+        "instance": 2,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s8.qasm",
+        "q_large": 19,
+        "instance": 3,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 19,
+        "instance": 4,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 19,
+        "instance": 5,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 19,
+        "instance": 6,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                7,
+                10
+            ],
+            [
+                10,
+                12
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s9.qasm",
+        "q_large": 19,
+        "instance": 7,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                7,
+                10
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s8.qasm",
+        "q_large": 19,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s7.qasm",
+        "q_large": 19,
+        "instance": 9,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s8.qasm",
+        "q_large": 19,
+        "instance": 10,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 20,
+        "instance": 1,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 20,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 20,
+        "instance": 3,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 20,
+        "instance": 4,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                15
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                10,
+                12
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 20,
+        "instance": 5,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                6,
+                7
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s2.qasm",
+        "q_large": 20,
+        "instance": 6,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s7.qasm",
+        "q_large": 20,
+        "instance": 7,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 20,
+        "instance": 8,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 20,
+        "instance": 9,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 20,
+        "instance": 10,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s6.qasm",
+        "q_large": 21,
+        "instance": 1,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                7,
+                10
+            ],
+            [
+                6,
+                7
+            ],
+            [
+                6,
+                7
+            ],
+            [
+                6,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 21,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 21,
+        "instance": 3,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 21,
+        "instance": 4,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 21,
+        "instance": 1,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 21,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 21,
+        "instance": 3,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                11
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s8.qasm",
+        "q_large": 21,
+        "instance": 4,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 21,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s9.qasm",
+        "q_large": 21,
+        "instance": 6,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s6.qasm",
+        "q_large": 21,
+        "instance": 7,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 21,
+        "instance": 8,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 21,
+        "instance": 9,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 21,
+        "instance": 10,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 22,
+        "instance": 1,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 22,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                4,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 22,
+        "instance": 3,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s4.qasm",
+        "q_large": 22,
+        "instance": 4,
+        "swap_count": 8,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 22,
+        "instance": 5,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s1.qasm",
+        "q_large": 22,
+        "instance": 6,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                8,
+                9
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s7.qasm",
+        "q_large": 22,
+        "instance": 7,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 22,
+        "instance": 8,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                6,
+                7
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 22,
+        "instance": 9,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s7.qasm",
+        "q_large": 22,
+        "instance": 10,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s4.qasm",
+        "q_large": 23,
+        "instance": 1,
+        "swap_count": 8,
+        "compiler_swaps": [
+            [
+                6,
+                7
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                4,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 23,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 23,
+        "instance": 3,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s3.qasm",
+        "q_large": 23,
+        "instance": 4,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 23,
+        "instance": 5,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 23,
+        "instance": 6,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                4,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 23,
+        "instance": 7,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                11
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 23,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s8.qasm",
+        "q_large": 23,
+        "instance": 9,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 23,
+        "instance": 10,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s3.qasm",
+        "q_large": 24,
+        "instance": 1,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s10.qasm",
+        "q_large": 24,
+        "instance": 2,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s2.qasm",
+        "q_large": 24,
+        "instance": 3,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s6.qasm",
+        "q_large": 24,
+        "instance": 4,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                8,
+                11
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                8,
+                9
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 24,
+        "instance": 5,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 24,
+        "instance": 6,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 24,
+        "instance": 7,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                6,
+                7
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 24,
+        "instance": 8,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 24,
+        "instance": 9,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 24,
+        "instance": 10,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                11
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s7.qasm",
+        "q_large": 25,
+        "instance": 1,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s9.qasm",
+        "q_large": 25,
+        "instance": 2,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 25,
+        "instance": 3,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 25,
+        "instance": 4,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 25,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 25,
+        "instance": 6,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s9.qasm",
+        "q_large": 25,
+        "instance": 7,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s6.qasm",
+        "q_large": 25,
+        "instance": 8,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                7,
+                10
+            ],
+            [
+                6,
+                7
+            ],
+            [
+                6,
+                7
+            ],
+            [
+                6,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 25,
+        "instance": 9,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 25,
+        "instance": 10,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 26,
+        "instance": 1,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 26,
+        "instance": 2,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 26,
+        "instance": 3,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s9.qasm",
+        "q_large": 26,
+        "instance": 4,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 26,
+        "instance": 5,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 26,
+        "instance": 6,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 26,
+        "instance": 7,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 26,
+        "instance": 8,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 26,
+        "instance": 9,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 26,
+        "instance": 10,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s6.qasm",
+        "q_large": 27,
+        "instance": 1,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s8.qasm",
+        "q_large": 27,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 27,
+        "instance": 1,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s3.qasm",
+        "q_large": 27,
+        "instance": 2,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 27,
+        "instance": 3,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 27,
+        "instance": 4,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 27,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s9.qasm",
+        "q_large": 27,
+        "instance": 6,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 27,
+        "instance": 7,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 27,
+        "instance": 8,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s10.qasm",
+        "q_large": 27,
+        "instance": 9,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 27,
+        "instance": 10,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 3,
+        "instance": 1,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 3,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                22,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 3,
+        "instance": 3,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                15,
+                18
+            ],
+            [
+                15,
+                18
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 3,
+        "instance": 4,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                12,
+                15
+            ],
+            [
+                12,
+                15
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s8.qasm",
+        "q_large": 3,
+        "instance": 5,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                12,
+                15
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 3,
+        "instance": 6,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s8.qasm",
+        "q_large": 3,
+        "instance": 7,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 3,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 3,
+        "instance": 9,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                24,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 3,
+        "instance": 10,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                19,
+                22
+            ],
+            [
+                19,
+                22
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 4,
+        "instance": 1,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                12,
+                15
+            ],
+            [
+                12,
+                15
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 4,
+        "instance": 2,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 4,
+        "instance": 3,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 4,
+        "instance": 4,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                21,
+                23
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s8.qasm",
+        "q_large": 4,
+        "instance": 5,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 4,
+        "instance": 6,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 4,
+        "instance": 7,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                8,
+                9
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 4,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s2.qasm",
+        "q_large": 4,
+        "instance": 9,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 4,
+        "instance": 10,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 5,
+        "instance": 1,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 5,
+        "instance": 2,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                21,
+                23
+            ],
+            [
+                21,
+                23
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 5,
+        "instance": 3,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 5,
+        "instance": 4,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                4,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s7.qasm",
+        "q_large": 5,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                23,
+                24
+            ],
+            [
+                18,
+                21
+            ],
+            [
+                23,
+                24
+            ],
+            [
+                21,
+                23
+            ],
+            [
+                23,
+                24
+            ],
+            [
+                18,
+                21
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 5,
+        "instance": 6,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                24,
+                25
+            ],
+            [
+                25,
+                26
+            ],
+            [
+                24,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 5,
+        "instance": 7,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                19,
+                20
+            ],
+            [
+                16,
+                19
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s10.qasm",
+        "q_large": 5,
+        "instance": 8,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                22,
+                25
+            ],
+            [
+                24,
+                25
+            ],
+            [
+                22,
+                25
+            ],
+            [
+                24,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s9.qasm",
+        "q_large": 5,
+        "instance": 9,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 5,
+        "instance": 10,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 6,
+        "instance": 1,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                22,
+                25
+            ],
+            [
+                19,
+                22
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 6,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 6,
+        "instance": 3,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                19,
+                22
+            ],
+            [
+                22,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 6,
+        "instance": 4,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                14,
+                16
+            ],
+            [
+                16,
+                19
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s8.qasm",
+        "q_large": 6,
+        "instance": 5,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 6,
+        "instance": 6,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s2.qasm",
+        "q_large": 6,
+        "instance": 7,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                22,
+                25
+            ],
+            [
+                22,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s7.qasm",
+        "q_large": 6,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 6,
+        "instance": 9,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                13,
+                14
+            ],
+            [
+                14,
+                16
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 6,
+        "instance": 10,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 7,
+        "instance": 1,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 7,
+        "instance": 2,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s4.qasm",
+        "q_large": 7,
+        "instance": 3,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 7,
+        "instance": 4,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                8,
+                11
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 7,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                22,
+                25
+            ],
+            [
+                25,
+                26
+            ],
+            [
+                19,
+                22
+            ],
+            [
+                24,
+                25
+            ],
+            [
+                25,
+                26
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s9.qasm",
+        "q_large": 7,
+        "instance": 6,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                16,
+                19
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                19,
+                20
+            ],
+            [
+                14,
+                16
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 7,
+        "instance": 7,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                21,
+                23
+            ],
+            [
+                24,
+                25
+            ],
+            [
+                18,
+                21
+            ],
+            [
+                21,
+                23
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 7,
+        "instance": 8,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                13,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s4.qasm",
+        "q_large": 7,
+        "instance": 9,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 7,
+        "instance": 10,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                7,
+                10
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 3,
+        "instance": 1,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 3,
+        "instance": 1,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 3,
+        "instance": 1,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 3,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                22,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 3,
+        "instance": 3,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                15,
+                18
+            ],
+            [
+                15,
+                18
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 3,
+        "instance": 4,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                12,
+                15
+            ],
+            [
+                12,
+                15
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s8.qasm",
+        "q_large": 3,
+        "instance": 5,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                12,
+                15
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 3,
+        "instance": 6,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s8.qasm",
+        "q_large": 3,
+        "instance": 7,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 3,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 3,
+        "instance": 9,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                24,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 3,
+        "instance": 10,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                19,
+                22
+            ],
+            [
+                19,
+                22
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 4,
+        "instance": 1,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                12,
+                15
+            ],
+            [
+                12,
+                15
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 4,
+        "instance": 2,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 4,
+        "instance": 3,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 4,
+        "instance": 4,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                21,
+                23
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s8.qasm",
+        "q_large": 4,
+        "instance": 5,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 4,
+        "instance": 6,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 4,
+        "instance": 7,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                8,
+                9
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 4,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s2.qasm",
+        "q_large": 4,
+        "instance": 9,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 4,
+        "instance": 10,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 5,
+        "instance": 1,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 5,
+        "instance": 2,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                21,
+                23
+            ],
+            [
+                21,
+                23
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 5,
+        "instance": 3,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 5,
+        "instance": 4,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                4,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s7.qasm",
+        "q_large": 5,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                23,
+                24
+            ],
+            [
+                18,
+                21
+            ],
+            [
+                23,
+                24
+            ],
+            [
+                21,
+                23
+            ],
+            [
+                23,
+                24
+            ],
+            [
+                18,
+                21
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 5,
+        "instance": 6,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                24,
+                25
+            ],
+            [
+                25,
+                26
+            ],
+            [
+                24,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 5,
+        "instance": 7,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                19,
+                20
+            ],
+            [
+                16,
+                19
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s10.qasm",
+        "q_large": 5,
+        "instance": 8,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                22,
+                25
+            ],
+            [
+                24,
+                25
+            ],
+            [
+                22,
+                25
+            ],
+            [
+                24,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s9.qasm",
+        "q_large": 5,
+        "instance": 9,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                9
+            ],
+            [
+                5,
+                8
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 5,
+        "instance": 10,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 6,
+        "instance": 1,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                22,
+                25
+            ],
+            [
+                19,
+                22
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 6,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 6,
+        "instance": 3,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                19,
+                22
+            ],
+            [
+                22,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 6,
+        "instance": 4,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                14,
+                16
+            ],
+            [
+                16,
+                19
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s8.qasm",
+        "q_large": 6,
+        "instance": 5,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 6,
+        "instance": 6,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s2.qasm",
+        "q_large": 6,
+        "instance": 7,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                22,
+                25
+            ],
+            [
+                22,
+                25
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s7.qasm",
+        "q_large": 6,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 6,
+        "instance": 9,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                13,
+                14
+            ],
+            [
+                14,
+                16
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 6,
+        "instance": 10,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 7,
+        "instance": 1,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 7,
+        "instance": 2,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s4.qasm",
+        "q_large": 7,
+        "instance": 3,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 7,
+        "instance": 4,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                8,
+                11
+            ],
+            [
+                5,
+                8
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 7,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                22,
+                25
+            ],
+            [
+                25,
+                26
+            ],
+            [
+                19,
+                22
+            ],
+            [
+                24,
+                25
+            ],
+            [
+                25,
+                26
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s9.qasm",
+        "q_large": 7,
+        "instance": 6,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                16,
+                19
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                19,
+                20
+            ],
+            [
+                14,
+                16
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 7,
+        "instance": 7,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                21,
+                23
+            ],
+            [
+                24,
+                25
+            ],
+            [
+                18,
+                21
+            ],
+            [
+                21,
+                23
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 7,
+        "instance": 8,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                11,
+                14
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                13,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s4.qasm",
+        "q_large": 7,
+        "instance": 9,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s5.qasm",
+        "q_large": 7,
+        "instance": 10,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                7,
+                10
+            ],
+            [
+                4,
+                7
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                7,
+                10
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s10.qasm",
+        "q_large": 8,
+        "instance": 1,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                16,
+                19
+            ],
+            [
+                14,
+                16
+            ],
+            [
+                19,
+                22
+            ],
+            [
+                16,
+                19
+            ],
+            [
+                19,
+                22
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 8,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 8,
+        "instance": 3,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ],
+            [
+                12,
+                15
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s3.qasm",
+        "q_large": 8,
+        "instance": 4,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 8,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                16,
+                19
+            ],
+            [
+                24,
+                25
+            ],
+            [
+                19,
+                22
+            ],
+            [
+                16,
+                19
+            ],
+            [
+                19,
+                22
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 8,
+        "instance": 6,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                12,
+                15
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                15
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s3.qasm",
+        "q_large": 8,
+        "instance": 7,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s7.qasm",
+        "q_large": 8,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                6,
+                7
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s10.qasm",
+        "q_large": 8,
+        "instance": 9,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                8,
+                9
+            ],
+            [
+                8,
+                11
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 8,
+        "instance": 10,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 9,
+        "instance": 1,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                15,
+                18
+            ],
+            [
+                18,
+                21
+            ],
+            [
+                12,
+                15
+            ],
+            [
+                17,
+                18
+            ],
+            [
+                18,
+                21
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 9,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 9,
+        "instance": 3,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                14,
+                16
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 9,
+        "instance": 4,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                15,
+                18
+            ],
+            [
+                15,
+                18
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s5.qasm",
+        "q_large": 9,
+        "instance": 5,
+        "swap_count": 4,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 9,
+        "instance": 6,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                16,
+                19
+            ],
+            [
+                16,
+                19
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 9,
+        "instance": 7,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s7.qasm",
+        "q_large": 9,
+        "instance": 8,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s9.qasm",
+        "q_large": 9,
+        "instance": 9,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                3,
+                5
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 9,
+        "instance": 10,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s4.qasm",
+        "q_large": 10,
+        "instance": 1,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 10,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                13,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 10,
+        "instance": 3,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 10,
+        "instance": 4,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                11,
+                14
+            ],
+            [
+                14,
+                16
+            ],
+            [
+                14,
+                16
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s4.qasm",
+        "q_large": 10,
+        "instance": 5,
+        "swap_count": 8,
+        "compiler_swaps": [
+            [
+                10,
+                12
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                13
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                10,
+                12
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s9.qasm",
+        "q_large": 10,
+        "instance": 6,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 10,
+        "instance": 7,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 10,
+        "instance": 8,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                19,
+                22
+            ],
+            [
+                19,
+                20
+            ],
+            [
+                22,
+                25
+            ],
+            [
+                16,
+                19
+            ],
+            [
+                19,
+                20
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 10,
+        "instance": 9,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                12,
+                13
+            ],
+            [
+                12,
+                15
+            ],
+            [
+                10,
+                12
+            ],
+            [
+                12,
+                13
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 10,
+        "instance": 10,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 11,
+        "instance": 1,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 11,
+        "instance": 2,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s6.qasm",
+        "q_large": 11,
+        "instance": 3,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                3,
+                5
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s10.qasm",
+        "q_large": 11,
+        "instance": 4,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                16,
+                19
+            ],
+            [
+                14,
+                16
+            ],
+            [
+                19,
+                22
+            ],
+            [
+                16,
+                19
+            ],
+            [
+                19,
+                22
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s8.qasm",
+        "q_large": 11,
+        "instance": 5,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                7,
+                10
+            ],
+            [
+                10,
+                12
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 11,
+        "instance": 6,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s7.qasm",
+        "q_large": 11,
+        "instance": 7,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 11,
+        "instance": 8,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s6.qasm",
+        "q_large": 11,
+        "instance": 9,
+        "swap_count": 5,
+        "compiler_swaps": [
+            [
+                19,
+                22
+            ],
+            [
+                19,
+                20
+            ],
+            [
+                19,
+                20
+            ],
+            [
+                19,
+                20
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s2.qasm",
+        "q_large": 11,
+        "instance": 10,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 12,
+        "instance": 1,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s8.qasm",
+        "q_large": 12,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                10,
+                12
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 12,
+        "instance": 3,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 12,
+        "instance": 4,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s3.qasm",
+        "q_large": 12,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                4
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s4.qasm",
+        "q_large": 12,
+        "instance": 6,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                2,
+                3
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 12,
+        "instance": 7,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s3.qasm",
+        "q_large": 12,
+        "instance": 8,
+        "swap_count": 3,
+        "compiler_swaps": [
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s10.qasm",
+        "q_large": 12,
+        "instance": 9,
+        "swap_count": 0,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s8.qasm",
+        "q_large": 12,
+        "instance": 10,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                18,
+                21
+            ],
+            [
+                17,
+                18
+            ],
+            [
+                18,
+                21
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s6.qasm",
+        "q_large": 13,
+        "instance": 1,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s9.qasm",
+        "q_large": 13,
+        "instance": 2,
+        "swap_count": 1,
+        "compiler_swaps": [
+            [
+                13,
+                14
+            ]
+        ]
+    },
+    {
+        "filename": "q4_l10_s2.qasm",
+        "q_large": 13,
+        "instance": 3,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s1.qasm",
+        "q_large": 13,
+        "instance": 4,
+        "swap_count": 2,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s1.qasm",
+        "q_large": 13,
+        "instance": 5,
+        "swap_count": 7,
+        "compiler_swaps": [
+            [
+                10,
+                12
+            ],
+            [
+                13,
+                14
+            ],
+            [
+                7,
+                10
+            ],
+            [
+                10,
+                12
+            ]
+        ]
+    },
+    {
+        "filename": "q3_l10_s5.qasm",
+        "q_large": 13,
+        "instance": 6,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q3_l10_s7.qasm",
+        "q_large": 13,
+        "instance": 7,
+        "swap_count": 1,
+        "compiler_swaps": []
+    },
+    {
+        "filename": "q5_l10_s4.qasm",
+        "q_large": 13,
+        "instance": 8,
+        "swap_count": 8,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s2.qasm",
+        "q_large": 13,
+        "instance": 9,
+        "swap_count": 6,
+        "compiler_swaps": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "filename": "q5_l10_s9.qasm",
+        "q_large": 13,
+        "instance": 10,
+        "swap_count": 4,
+        "compiler_swaps": [
+            [
+                21,
+                23
+            ],
+            [
+                15,
+                18
+            ],
+            [
+                23,
+                24
+            ],
+            [
+                18,
+                21
+            ]
+        ]
+    }
+]
