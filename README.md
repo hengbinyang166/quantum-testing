@@ -54,7 +54,7 @@ python -m venv .venv
 
 pip install -r requirements.txt
 
-```bash
+```
 
 
 5.1 方法一（MT-1）：以某个芯片目录为例运行
