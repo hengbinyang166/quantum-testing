@@ -54,7 +54,9 @@ python -m venv .venv
 
 pip install -r requirements.txt
 
-```bash开始（Quickstart）
+```bash
+
+
 5.1 方法一（MT-1）：以某个芯片目录为例运行
 
 在任一芯片目录中（例如 Aspen-4/ 或 Sydney/ / Tokyo/），按如下顺序运行：
