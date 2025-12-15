@@ -62,18 +62,24 @@ pip install -r requirements.txt
 在任一芯片目录中（例如 Aspen-4/ 或 Sydney/ / Tokyo/），按如下顺序运行：
 
 生成随机电路数据集
+```bash
 
 python generate_random_circuits.py
+```
 
 运行路由测试（示例入口）
 
 SABRE 相关对比（示例脚本）：
+```bash
 
 python test1_compare_sabre_isomorphism.py
+```
 
 QMAP 路由（示例脚本）：
+```bash
 
 python test1_qmap.py
+```
 
 如需测试其他路由器
 你可以在现有测试脚本中替换“路由/编译”模块为目标算法的调用逻辑，并保持输出指标一致，即可纳入对比。
