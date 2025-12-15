@@ -55,7 +55,7 @@ python -m venv .venv
 pip install -r requirements.txt
 
 ```
-
+## 5. 快速开始（Quickstart）
 
 5.1 方法一（MT-1）：以某个芯片目录为例运行
 
@@ -85,3 +85,71 @@ python test1_qmap.py
 你可以在现有测试脚本中替换“路由/编译”模块为目标算法的调用逻辑，并保持输出指标一致，即可纳入对比。
 
 FiDLS：请参考 FiDLS 官方仓库流程运行，并替换为你的数据集与芯片耦合图。
+
+5.2 方法二（MT-2）：test2/ 组合/动态电路测试
+
+在 test2/ 中按顺序执行：
+
+生成随机电路数据集
+```bash
+
+python generate_random_circuits.py
+```
+
+
+生成动态/组合后的测试数据集
+```bash
+
+python generate_dynamic_circuits.py
+```
+
+
+运行路由测试入口（示例）
+
+heuristic：
+```bash
+
+python run_heuristic.py
+```
+
+
+SABRE：
+```bash
+
+python run_sabre.py
+```
+
+
+FiDLS（本仓库提供对接入口）：
+```bash
+
+python test1_fidls.py
+```
+
+
+扩展到其他路由器
+同样替换测试脚本中的路由模块即可；建议保持统一的结果落盘格式，便于自动汇总与画图。
+
+输出结果（Outputs）
+
+各测试脚本会在运行过程中输出：
+
+控制台日志（进度、统计信息）
+
+结果文件
+
+指标口径（Metrics）
+
+建议所有路由器输出至少包含以下字段，便于横向对比：
+
+swap_count：新增 SWAP 数（或 SWAP 等价开销）
+
+复现性建议（Reproducibility）
+
+随机电路/采样会影响结果对比。建议你：
+
+固定随机种子（例如 --seed 或脚本内统一 seed）
+
+记录关键参数（qubits、depth、sample_count、router 配置）
+
+记录版本（Python、Qiskit、mqt.qmap 等依赖版本已在 requirements 固定）
