@@ -52,11 +52,9 @@ python -m venv .venv
 # Windows: .venv\Scripts\activate
 # Linux/macOS: source .venv/bin/activate
 
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
-
-
-快速开始（Quickstart）
+```bash开始（Quickstart）
 5.1 方法一（MT-1）：以某个芯片目录为例运行
 
 在任一芯片目录中（例如 Aspen-4/ 或 Sydney/ / Tokyo/），按如下顺序运行：
