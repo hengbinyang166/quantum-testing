@@ -100,17 +100,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-### 修改说明与使用方法
-
-#1.  **核心修改**：我只修改了 `main()` 函数中的 `datasets` 列表，将输入的目录名从 `combined_circuits_physical` 和 `combined_circuits_reindexed` 更新为了 `combined_circuits_dynamic_physical` 和 `combined_circuits_dynamic_reindexed`。同时，我也更新了输出目录名，使其更具描述性。
-#2.  **代码健壮性**：我还为你添加了一些检查（如文件是否存在）和更详细的打印信息，让脚本运行时的状态更清晰。
-#3.  **使用流程**：
- 
-   # * 在你成功运行完 Canvas 中的 `generate_dynamic_circuits.py` 脚本之后，直接在同一个目录下运行这个新脚本即可：
-   #   ```bash
-
-      
-
-#完成这一步后，你的整个研究工作流就更加完整了，你将拥有由两种不同方法（MQT Exact + 动态生成，Qiskit SABRE）编译的四组电路，为后续的性能对比分析提供了坚实的数据
